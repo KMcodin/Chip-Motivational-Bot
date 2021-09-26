@@ -30,3 +30,5 @@ Fill out this Google form and you can be added into Chip's phone book.
 https://docs.google.com/forms/d/e/1FAIpQLSefxvj7hlNjCM2f25-lxbpVwIKbYuhAknyXN1s_-7bnv4P4UA/viewform?usp=sf_link
 
 ![alt text](https://i.imgur.com/C0gvEgI.jpg)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/YLI_GPDXQYg)
