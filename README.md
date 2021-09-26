@@ -1,3 +1,6 @@
+Hello and welcome to our team! 
+Kevin, Gricelle, and Rogelio makes up the engineering team that brought Chip to life, your personal Motivational Companion. 
+
 # Chip-Motivational-Bot
 Chip, your personal Motivational Companion, is here to make you feel better! 
 Thanks to Courier's API service, Chip is now able to send you daily motivational text messages! Whoo-hoo!"
