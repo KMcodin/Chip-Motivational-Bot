@@ -11,6 +11,19 @@ The first challenge we ran into was setting up the SMS integration system with t
 ## Accomplishments that we're proud of
 We are proud of the project we came up with during this exciting weekend. As first time Shellhackers, and first time ever at a Hackathon, we didn't know what to expect but the documentation available to us online through UPE, Shellhacks and the Sponsors, we were able to see Chip come to life. We are proud of having different channels that make Chip feel not as much as a Bot. We looked for many inspirational quotes that we believe will motivate people that are going through something in life. We are proud of using the google doc form and send it through an email that way if we partnered with a school or organization it would be easier to send to more people. Since the SMS for us feels more personal.
 
+## What we learned
+We learned how to implement the Courier API system with our code and add notifications to it. This API made it very easy for us to add that functionality to our code and be able to combine many things into our project. Like sending a google form through the SendGrid integration system, getting the names and numbers from that file and adding them to a txt file that is used by the twilio sms system to reach out to people! Overall, we familiarize ourselves with the Courier API, twilio, and SendGrid, as well as working with new things we hadn't before with Python.
+
 ![alt text](https://i.imgur.com/5rrB75C.jpg)
 ![alt text](https://i.imgur.com/zw5qIxB.jpg)
 ![alt text](https://i.imgur.com/Jm6e0R1.jpg)
+![alt text](https://i.imgur.com/TENezRG.jpg)
+
+## What's next for Chip - Motivational Companion Bot
+The next step for chip would be to add a receive messages functionality. So far, it can only distinguish messages about opt-in or out, but the team wants to give Chip the ability to connect with the people that reach out to him in a more personal level. In the meantime we added the National Suicide Prevention Lifeline phone number and chat in case someone needs to talk with a person right away. Once we get Chip to be able to receive messages we would like to create a script that sends the messages automatically once or twice a day at a time between 8am and 9pm.
+
+# Want to recieve messages?
+Fill out this Google form and you can be added into Chip's phone book.
+https://docs.google.com/forms/d/e/1FAIpQLSefxvj7hlNjCM2f25-lxbpVwIKbYuhAknyXN1s_-7bnv4P4UA/viewform?usp=sf_link
+
+![alt text](https://i.imgur.com/C0gvEgI.jpg)
